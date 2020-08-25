@@ -1,0 +1,356 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.15)  25 AUG 2020 17:11
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**dmfir2f_article.tex
+(./dmfir2f_article.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./svjour.cls
+Document Class: svjour 2003/04/15 
+LaTeX document class for Springer journals - version 1.11
+(./svglobal.clo
+File: svglobal.clo 1998/04/23 v1.0 style option for unspecific journals
+
+SVJour Class option: svglobal.clo for unspecific journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 99.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 100.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 102.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 103.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 104.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 105.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 107.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 109.
+\logodepth=\dimen102
+\headerboxheight=\dimen103
+\betweenumberspace=\dimen104
+\aftertext=\dimen105
+\headlineindent=\dimen106
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen107
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen108
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen109
+\tabcapgap=\dimen110
+\figgap=\dimen111
+\bibindent=\dimen112
+\@tempcntc=\count104
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen115
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen116
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count105
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count106
+\leftroot@=\count107
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count108
+\DOTSCASE@=\count109
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count110
+\c@MaxMatrixCols=\count111
+\dotsspace@=\muskip10
+\c@parentequation=\count112
+\dspbrk@lvl=\count113
+\tag@help=\toks19
+\row@=\count114
+\column@=\count115
+\maxfields@=\count116
+\andhelp@=\toks20
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count117
+\float@exts=\toks23
+\float@box=\box31
+\@float@everytoks=\toks24
+\@floatcapt=\box32
+) (/home/matias/Dropbox/Matias/Laboratorio/papers/gestacion/paper_dmfir2f/build/dmfir2f_article.aux)
+\openout1 = `dmfir2f_article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen124
+\scratchbox=\box33
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen125
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (5.0899pt too wide) in paragraph at lines 36--37
+[]\OT1/cmr/m/n/10 We per-formed Sil-i-con iso-tope sep-a-ra-tion SiF$[]$
+ []
+
+
+Overfull \hbox (5.72743pt too wide) in paragraph at lines 46--47
+[]\OT1/cmr/bx/n/10 Infrared mul-ti-pho-ton ion-iza-tion for sil-i-con com-
+ []
+
+<figures/dispositivo_2f_english.pdf, id=1, 1404.46606pt x 930.58046pt>
+File: figures/dispositivo_2f_english.pdf Graphic file (type pdf)
+<use figures/dispositivo_2f_english.pdf>
+Package pdftex.def Info: figures/dispositivo_2f_english.pdf  used on input line 58.
+(pdftex.def)             Requested size: 253.0pt x 167.62505pt.
+
+Overfull \hbox (9.63008pt too wide) in paragraph at lines 58--59
+[][] 
+ []
+
+
+LaTeX Warning: Citation `bishop09' on page 1 undefined on input line 62.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./figures/dispositivo_2f_english.pdf>]
+<figures/sp_uv_ir.pdf, id=163, 578.16pt x 433.62pt>
+File: figures/sp_uv_ir.pdf Graphic file (type pdf)
+<use figures/sp_uv_ir.pdf>
+Package pdftex.def Info: figures/sp_uv_ir.pdf  used on input line 80.
+(pdftex.def)             Requested size: 243.36992pt x 182.52277pt.
+
+Overfull \hbox (3.71275pt too wide) in paragraph at lines 84--85
+\OT1/cmr/m/n/10 first ir-ra-di-ated by IR ra-di-a-tion, to dis-so-ci-ate the molecule,
+ []
+
+Missing character: There is no â in font cmr7!
+Missing character: There is no ˆ in font cmr7!
+Missing character: There is no ’ in font cmr7!
+<figures/alfa_47_decaimiento.pdf, id=164, 602.25pt x 451.6875pt>
+File: figures/alfa_47_decaimiento.pdf Graphic file (type pdf)
+<use figures/alfa_47_decaimiento.pdf>
+Package pdftex.def Info: figures/alfa_47_decaimiento.pdf  used on input line 132.
+(pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
+[2 <./figures/sp_uv_ir.pdf> <./figures/alfa_47_decaimiento.pdf
+
+pdfTeX warning: pdflatex (file ./figures/alfa_47_decaimiento.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/alpha_47_phi_bombeo.pdf, id=345, 613.28378pt x 451.6875pt>
+File: figures/alpha_47_phi_bombeo.pdf Graphic file (type pdf)
+<use figures/alpha_47_phi_bombeo.pdf>
+Package pdftex.def Info: figures/alpha_47_phi_bombeo.pdf  used on input line 156.
+(pdftex.def)             Requested size: 243.36992pt x 179.23822pt.
+<figures/alfa_47_nu_bombeo.pdf, id=346, 722.7pt x 433.62pt>
+File: figures/alfa_47_nu_bombeo.pdf Graphic file (type pdf)
+<use figures/alfa_47_nu_bombeo.pdf>
+Package pdftex.def Info: figures/alfa_47_nu_bombeo.pdf  used on input line 168.
+(pdftex.def)             Requested size: 243.36992pt x 146.01953pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/alfa_47_nu_diso.pdf, id=347, 602.25pt x 451.6875pt>
+File: figures/alfa_47_nu_diso.pdf Graphic file (type pdf)
+<use figures/alfa_47_nu_diso.pdf>
+Package pdftex.def Info: figures/alfa_47_nu_diso.pdf  used on input line 178.
+(pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./figures/alpha_47_phi_bombeo.pdf> <./figures/alfa_47_nu_bombeo.pdf
+
+pdfTeX warning: pdflatex (file ./figures/alfa_47_nu_bombeo.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/alfa_47_nu_diso.pdf
+
+pdfTeX warning: pdflatex (file ./figures/alfa_47_nu_diso.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/beta_30_nu_bombeo.pdf, id=790, 602.25pt x 451.6875pt>
+File: figures/beta_30_nu_bombeo.pdf Graphic file (type pdf)
+<use figures/beta_30_nu_bombeo.pdf>
+Package pdftex.def Info: figures/beta_30_nu_bombeo.pdf  used on input line 187.
+(pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
+<figures/beta_30_nu_diso.pdf, id=791, 602.25pt x 451.6875pt>
+File: figures/beta_30_nu_diso.pdf Graphic file (type pdf)
+<use figures/beta_30_nu_diso.pdf>
+Package pdftex.def Info: figures/beta_30_nu_diso.pdf  used on input line 195.
+(pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./figures/beta_30_nu_bombeo.pdf> <./figures/beta_30_nu_diso.pdf
+
+pdfTeX warning: pdflatex (file ./figures/beta_30_nu_diso.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] (/home/matias/Dropbox/Matias/Laboratorio/papers/gestacion/paper_dmfir2f/build/dmfir2f_article.aux) ) 
+Here is how much of TeX's memory you used:
+ 2711 strings out of 492982
+ 36113 string characters out of 6134896
+ 104082 words of memory out of 5000000
+ 6230 multiletter control sequences out of 15000+600000
+ 13131 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,15n,26p,631b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb>
+Output written on /home/matias/Dropbox/Matias/Laboratorio/papers/gestacion/paper_dmfir2f/build/dmfir2f_article.pdf (4 pages, 889381 bytes).
+PDF statistics:
+ 1071 PDF objects out of 1200 (max. 8388607)
+ 730 compressed objects within 8 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

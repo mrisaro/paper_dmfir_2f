@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.15)  13 AUG 2020 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.15)  25 AUG 2020 17:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -166,35 +166,43 @@ Package amsmath Warning: Unable to redefine math accent \vec.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-) (./dmfir2f_article.aux)
+) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count117
+\float@exts=\toks23
+\float@box=\box31
+\@float@everytoks=\toks24
+\@floatcapt=\box32
+)
+(./dmfir2f_article.aux)
 \openout1 = `dmfir2f_article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count117
+\scratchcounter=\count118
 \scratchdimen=\dimen124
-\scratchbox=\box31
-\nofMPsegments=\count118
-\nofMParguments=\count119
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count120
+\scratchbox=\box33
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count121
 \MPscratchDim=\dimen125
-\MPnumerator=\count121
-\makeMPintoPDFobject=\count122
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks26
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -251,22 +259,22 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (5.0899pt too wide) in paragraph at lines 35--36
+Overfull \hbox (5.0899pt too wide) in paragraph at lines 36--37
 []\OT1/cmr/m/n/10 We per-formed Sil-i-con iso-tope sep-a-ra-tion SiF$[]$
  []
 
 
-Overfull \hbox (5.72743pt too wide) in paragraph at lines 45--46
+Overfull \hbox (5.72743pt too wide) in paragraph at lines 46--47
 []\OT1/cmr/bx/n/10 Infrared mul-ti-pho-ton ion-iza-tion for sil-i-con com-
  []
 
@@ -274,15 +282,15 @@ Overfull \hbox (5.72743pt too wide) in paragraph at lines 45--46
 File: figures/dispositivo_2f_english.pdf Graphic file (type pdf)
 <use figures/dispositivo_2f_english.pdf>
 Package pdftex.def Info: figures/dispositivo_2f_english.pdf  used on input line
- 57.
+ 58.
 (pdftex.def)             Requested size: 253.0pt x 167.62505pt.
 
-Overfull \hbox (9.63008pt too wide) in paragraph at lines 57--58
+Overfull \hbox (9.63008pt too wide) in paragraph at lines 58--59
 [][] 
  []
 
 
-LaTeX Warning: Citation `bishop09' on page 1 undefined on input line 61.
+LaTeX Warning: Citation `bishop09' on page 1 undefined on input line 62.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -291,13 +299,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
  <./figures/dispositivo_2f_english.pdf>]
-<figures/sp_uv_ir.pdf, id=163, 602.25pt x 451.6875pt>
+<figures/sp_uv_ir.pdf, id=163, 578.16pt x 433.62pt>
 File: figures/sp_uv_ir.pdf Graphic file (type pdf)
 <use figures/sp_uv_ir.pdf>
-Package pdftex.def Info: figures/sp_uv_ir.pdf  used on input line 79.
-(pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
+Package pdftex.def Info: figures/sp_uv_ir.pdf  used on input line 80.
+(pdftex.def)             Requested size: 243.36992pt x 182.52277pt.
 
-Overfull \hbox (3.71275pt too wide) in paragraph at lines 83--84
+Overfull \hbox (3.71275pt too wide) in paragraph at lines 84--85
 \OT1/cmr/m/n/10 first ir-ra-di-ated by IR ra-di-a-tion, to dis-so-ci-ate the mo
 lecule,
  []
@@ -309,33 +317,33 @@ Missing character: There is no ’ in font cmr7!
 File: figures/alfa_47_decaimiento.pdf Graphic file (type pdf)
 <use figures/alfa_47_decaimiento.pdf>
 Package pdftex.def Info: figures/alfa_47_decaimiento.pdf  used on input line 13
-1.
+2.
 (pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
 [2 <./figures/sp_uv_ir.pdf> <./figures/alfa_47_decaimiento.pdf
 
 pdfTeX warning: pdflatex (file ./figures/alfa_47_decaimiento.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
 >]
-<figures/alpha_47_phi_bombeo.pdf, id=412, 613.28378pt x 451.6875pt>
+<figures/alpha_47_phi_bombeo.pdf, id=345, 613.28378pt x 451.6875pt>
 File: figures/alpha_47_phi_bombeo.pdf Graphic file (type pdf)
 <use figures/alpha_47_phi_bombeo.pdf>
 Package pdftex.def Info: figures/alpha_47_phi_bombeo.pdf  used on input line 15
-5.
+6.
 (pdftex.def)             Requested size: 243.36992pt x 179.23822pt.
-<figures/alfa_47_nu_bombeo.pdf, id=413, 722.7pt x 433.62pt>
+<figures/alfa_47_nu_bombeo.pdf, id=346, 722.7pt x 433.62pt>
 File: figures/alfa_47_nu_bombeo.pdf Graphic file (type pdf)
 <use figures/alfa_47_nu_bombeo.pdf>
-Package pdftex.def Info: figures/alfa_47_nu_bombeo.pdf  used on input line 167.
+Package pdftex.def Info: figures/alfa_47_nu_bombeo.pdf  used on input line 168.
 
 (pdftex.def)             Requested size: 243.36992pt x 146.01953pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/alfa_47_nu_diso.pdf, id=414, 602.25pt x 451.6875pt>
+<figures/alfa_47_nu_diso.pdf, id=347, 602.25pt x 451.6875pt>
 File: figures/alfa_47_nu_diso.pdf Graphic file (type pdf)
 <use figures/alfa_47_nu_diso.pdf>
-Package pdftex.def Info: figures/alfa_47_nu_diso.pdf  used on input line 177.
+Package pdftex.def Info: figures/alfa_47_nu_diso.pdf  used on input line 178.
 (pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -349,32 +357,34 @@ pdfTeX warning: pdflatex (file ./figures/alfa_47_nu_bombeo.pdf): PDF inclusion:
 pdfTeX warning: pdflatex (file ./figures/alfa_47_nu_diso.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
 >]
-<figures/beta_30_nu_bombeo.pdf, id=857, 602.25pt x 451.6875pt>
+<figures/beta_30_nu_bombeo.pdf, id=790, 602.25pt x 451.6875pt>
 File: figures/beta_30_nu_bombeo.pdf Graphic file (type pdf)
 <use figures/beta_30_nu_bombeo.pdf>
-Package pdftex.def Info: figures/beta_30_nu_bombeo.pdf  used on input line 186.
+Package pdftex.def Info: figures/beta_30_nu_bombeo.pdf  used on input line 187.
 
 (pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
-<figures/beta_30_nu_diso.pdf, id=858, 602.25pt x 451.6875pt>
+<figures/beta_30_nu_diso.pdf, id=791, 602.25pt x 451.6875pt>
 File: figures/beta_30_nu_diso.pdf Graphic file (type pdf)
 <use figures/beta_30_nu_diso.pdf>
-Package pdftex.def Info: figures/beta_30_nu_diso.pdf  used on input line 187.
+Package pdftex.def Info: figures/beta_30_nu_diso.pdf  used on input line 195.
 (pdftex.def)             Requested size: 243.36992pt x 182.52579pt.
- [4
 
- <./figures/beta_30_nu_bombeo.pdf> <./figures/beta_30_nu_diso.pdf
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./figures/beta_30_nu_bombeo.pdf> <./figures/beta_30_nu_diso.pdf
 
 pdfTeX warning: pdflatex (file ./figures/beta_30_nu_diso.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
 >] (./dmfir2f_article.aux) ) 
 Here is how much of TeX's memory you used:
- 2650 strings out of 492982
- 34773 string characters out of 6134896
- 102697 words of memory out of 5000000
- 6174 multiletter control sequences out of 15000+600000
+ 2710 strings out of 492982
+ 35578 string characters out of 6134896
+ 104082 words of memory out of 5000000
+ 6230 multiletter control sequences out of 15000+600000
  13131 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,15n,26p,631b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,15n,26p,631b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
@@ -392,15 +402,16 @@ cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/
-tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb>
-Output written on dmfir2f_article.pdf (4 pages, 896318 bytes).
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/tex-gyr
+e/qtmr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb>
+Output written on dmfir2f_article.pdf (4 pages, 889381 bytes).
 PDF statistics:
- 1142 PDF objects out of 1200 (max. 8388607)
- 773 compressed objects within 8 object streams
+ 1071 PDF objects out of 1200 (max. 8388607)
+ 730 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

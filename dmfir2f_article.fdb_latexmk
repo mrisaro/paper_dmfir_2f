@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1597347586 "dmfir2f_article.tex" "dmfir2f_article.pdf" "dmfir2f_article" 1597347586
+["pdflatex"] 1598386274 "dmfir2f_article.tex" "dmfir2f_article.pdf" "dmfir2f_article" 1598386279
   "/etc/texmf/web2c/texmf.cnf" 1586817130 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1480098698 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -46,6 +46,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1480098733 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1480098733 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1480098733 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1480098733 32587 1788b0c1c5b39540c96f5e42ccd6dae8 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1480098733 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1480098733 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb" 1480098733 36310 f5ddc6715cc60deb16d9db5ded6a9391 ""
@@ -68,6 +69,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty" 1504905757 84352 897a476d96a0681047a5b0f91178a3d2 ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty" 1480098820 4115 318a66090112f3aa3f415aeb6fe8540f ""
   "/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty" 1480098820 2431 fe3078ec12fc30287f568596f8e0b948 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/float/float.sty" 1480098828 6749 16d2656a1984957e674b149555f1ea1d ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1480098830 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def" 1515537368 17334 520b9b85ad8a2a48eda3f643e27a5179 ""
   "/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty" 1498427532 15275 7d676729b1bedd3e7f3c6717affb366c ""
@@ -84,8 +86,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1586976831 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1586976846 4127665 a3fa8fa535e2beab460df187e0d9d6a9 ""
-  "dmfir2f_article.aux" 1597347586 2779 055318efb49a29b2be1a9f6af4758af7 ""
-  "dmfir2f_article.tex" 1596742982 12973 2cf43e2050381a8e28fd8e4d3a4b04ff ""
+  "dmfir2f_article.aux" 1598386275 3025 ef04f2cea52629b95059d11fe91a2e36 ""
+  "dmfir2f_article.tex" 1598386274 14397 2151bcc9f2f325a0ae545bff4f525a7b ""
   "figures/alfa_47_decaimiento.pdf" 1551444586 44564 c3db1b65da7c9f2a66af3677e51043d3 ""
   "figures/alfa_47_nu_bombeo.pdf" 1597342758 51624 e0e2597ddbfe537449b00fbf35c7141f ""
   "figures/alfa_47_nu_diso.pdf" 1597343594 18716 faf77d0e2c80bd9eb80f2a4a39a55bc0 ""
@@ -93,10 +95,10 @@
   "figures/beta_30_nu_bombeo.pdf" 1597345476 55445 8f3ad22940ac257e21d85c90454c75f9 ""
   "figures/beta_30_nu_diso.pdf" 1597347573 193611 ed4ee76a808d9b3b703c5960930532d4 ""
   "figures/dispositivo_2f_english.pdf" 1557854838 48167 287587d3687a2ec8142bcf2e9253d294 ""
-  "figures/sp_uv_ir.pdf" 1596639193 72778 0a3ffc5d2c1d845be4813a06785b8dc4 ""
+  "figures/sp_uv_ir.pdf" 1597866274 174291 355cb95bae282ac50b5371c59263967c ""
   "svglobal.clo" 893646000 3117 5468969b91ccd0b76203fda0ef301c5f ""
   "svjour.cls" 1222830000 41964 f1cf530a6c8e721e6b13dafe3c59d374 ""
   (generated)
-  "dmfir2f_article.log"
-  "dmfir2f_article.pdf"
   "dmfir2f_article.aux"
+  "dmfir2f_article.pdf"
+  "dmfir2f_article.log"
